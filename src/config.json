@@ -1,0 +1,7 @@
+{
+    "clientID": "sKUQMezwFIUhXa0MjPTB1wydN6Aa",
+    "baseUrl": "https://api.asgardeo.io/t/fortresscomputingtech",
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "scope": ["profile", "email"]
+}
